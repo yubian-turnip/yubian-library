@@ -8,3 +8,6 @@ Gameplay shouldn't be violent.
 Player should always have a POI without view distance and should never feel like they have to travel to see something interesting. 
 
 Not all POIs should be big and massive and grand.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0ODkyNTIyNjJdfQ==
+-->
