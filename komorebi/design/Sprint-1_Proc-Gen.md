@@ -55,12 +55,13 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	* ( $g$ = number of points in group )
 3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
 4. Find the total of the rays: $P= [\bar{p}_1,\bar{p}_2,\bar{p}_3...\bar{p}_n] , P_{total} =\sum_{i = 1}^{n}P_i$
-5. Start the process over again where $P_{total}+C=C_{new}$ 
+	* rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
+6. Start the process over again where $P_{total}+C=C_{new}$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQxODI4MTYsMTMxOTE1MDYyNiwxOT
-gyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2
-NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMT
-Y0OTQ2MzM1NF19
+eyJoaXN0b3J5IjpbNzQyMTgzMzgsMTMxOTE1MDYyNiwxOTgyMj
+Y5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2NTEw
+LDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMTY0OT
+Q2MzM1NF19
 -->
