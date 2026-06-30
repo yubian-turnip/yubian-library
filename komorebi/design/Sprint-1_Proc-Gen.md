@@ -50,12 +50,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 ## Day 2 (June 30 2026)
 ### Tracing a Noise Map
-1. Group points into x amount of points from the radius of a center point
+1. Group points into n amount of points from the radius of a center point
 2. Take the average of the points in those groups
 3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
-4. Add all the rays together and scale by  $P= [x_1,x_2,x_3...x_n] , \frac{1}{x}\sum_{i = 1}^{x}P_i$
+4. Add all the rays together and scale by  $P= [\bar{x}_1,\bar{x}_2,\bar{x}_3...\bar{x}_n] , \frac{1}{n}\sum_{i = 1}^{n}P_i$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjgzNzA5LDE5ODIyNjkxMjQsLTEyMj
+eyJoaXN0b3J5IjpbNDEwNjIwNjAzLDE5ODIyNjkxMjQsLTEyMj
 U4NjQyMywxOTY0MjM0NTg3LDE2OTc4MzY1MTAsMTU2Njg5OTM0
 MCw5NDY1MTE3MzQsLTUyMzg0MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
