@@ -61,10 +61,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 We also need a process for getting the actual points from the radius.
 
 1. Find a square AABB around where the circle could be
-2. for each point in that AABB find the distance from the circle and check if its in the circle using the circle function:  > $x^2+y^2=r^2$ and add it to the queue of circles.
+2. For each point in that AABB find the distance from the circle and check if its in the circle using the circle function:  
+	> $x^2+y^2 \leq r^2$
+3. Add it to the queue if if 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU1MjQ3MjAsMTUwODU2NzcwLC0xNj
-A1NzE0NzEwLDEzMTkxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2
-NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLD
-k0NjUxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbODE2OTU0NjMxLDE1MDg1Njc3MCwtMTYwNT
+cxNDcxMCwxMzE5MTUwNjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQy
+MywxOTY0MjM0NTg3LDE2OTc4MzY1MTAsMTU2Njg5OTM0MCw5ND
+Y1MTE3MzQsLTUyMzg0MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
