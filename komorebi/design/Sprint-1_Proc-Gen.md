@@ -58,10 +58,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
 5. Start the process over again where $P_{total}+C=C_{new}$ 
 
+We also need a process for getting the actual points from the radius.
 
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU3MTQ3MTAsMTMxOTE1MDYyNiwxOT
-gyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2
-NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMT
-Y0OTQ2MzM1NF19
+eyJoaXN0b3J5IjpbMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMT
+kxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1
+ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNT
+IzODQxNDYxLDE2NDk0NjMzNTRdfQ==
 -->
