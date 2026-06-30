@@ -53,9 +53,10 @@ It also has the added benefit of defining a path for streams and rivers to follo
 1. Group points into x amount of points from the radius of a center point
 2. Take the average of the points in those groups
 3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
-4. 
+4. Add all the rays together and scale by $\frac{1}{x}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5Nj
-QyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTcz
-NCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbLTEwODcxMjc2MzcsMTk4MjI2OTEyNCwtMT
+IyNTg2NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5
+MzQwLDk0NjUxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ
+==
 -->
