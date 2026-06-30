@@ -73,14 +73,14 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
 5. Start the process over again where $P_{total}+C=C_{new}$ 
 
-but... it turns out all that is useless. Its not really that easy to get information that simply. In fact my algorithm I made resembles derivatives and gradients.
+but... it turns out all that is highly ineffective and inefficient. The radial sampling I'm doing above is good for finding local maxima, tracing uphill/downhill paths, erosion and rivers but not re
 
 Even still gradients won't work because they all point to the peak not the ridges or spines of the mountains. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDQ0OTY3NCwtMjA5MjQwNzUsMTUwNz
-M2MzM1OCwtMTUwNjc1NTQ2MCwxNTA4NTY3NzAsLTE2MDU3MTQ3
-MTAsMTMxOTE1MDYyNiwxOTgyMjY5MTI0LC0xMjI1ODY0MjMsMT
-k2NDIzNDU4NywxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTEx
-NzM0LC01MjM4NDE0NjEsMTY0OTQ2MzM1NF19
+eyJoaXN0b3J5IjpbODk2NjIyNDQwLC0yMDkyNDA3NSwxNTA3Mz
+YzMzU4LC0xNTA2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcx
+MCwxMzE5MTUwNjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOT
+Y0MjM0NTg3LDE2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3
+MzQsLTUyMzg0MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
