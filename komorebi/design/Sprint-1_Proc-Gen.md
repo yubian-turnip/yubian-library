@@ -55,9 +55,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 2. For each point in that AABB find the distance from the circle and check if its in the circle using the circle function:  
 	> $x^2+y^2 \leq r^2$
 3. Add it to the queue if if it is true
-
+  
 **Get the rays**:
-1. Get the center slice for each angle: $\theta_i=($
+1. Get the center slice for each angle: $\theta_i=(i+0.5) \times \frac{2\pi}{n} - $
 
 **Find the new point**:
 
@@ -72,9 +72,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzY5NDc4NywxNTA3MzYzMzU4LC0xNT
-A2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcxMCwxMzE5MTUw
-NjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOTY0MjM0NTg3LD
-E2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMzg0
-MTQ2MSwxNjQ5NDYzMzU0XX0=
+eyJoaXN0b3J5IjpbODU0NjAzODcxLDE1MDczNjMzNTgsLTE1MD
+Y3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMTkxNTA2
+MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMT
+Y5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQx
+NDYxLDE2NDk0NjMzNTRdfQ==
 -->
