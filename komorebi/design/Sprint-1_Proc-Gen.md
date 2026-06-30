@@ -50,12 +50,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 ## Day 2 (June 30 2026)
 ### Tracing a Noise Map
-1. Group points into n amount of points from the radius of a center point
-2. Take the average of the points in those groups: $P= [x_1,x_2,x_3...x_n] , \frac{1}{n}\sum_{i = 1}^{n}P_i$
-3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
-4. Find the average of the rays: $P= [\bar{x}_1,\bar{x}_2,\bar{x}_3...\bar{x}_n] , \frac{1}{n}\sum_{i = 1}^{n}P_i$
+1. Group points into $n$ amount of groups from the radius of a center point
+3. Take the average of the points in those groups: $P= [x_1,x_2,x_3...x_n] , \frac{1}{g}\sum_{i = 1}^{g}P_i$  ( $g$ = number of points in group )
+4. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
+5. Find the average of the rays: $P= [\bar{x}_1,\bar{x}_2,\bar{x}_3...\bar{x}_n] , \frac{1}{n}\sum_{i = 1}^{n}P_i$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0NDU5MzAsMTk4MjI2OTEyNCwtMT
+eyJoaXN0b3J5IjpbLTE3NDI5NTM4MzgsMTk4MjI2OTEyNCwtMT
 IyNTg2NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5
 MzQwLDk0NjUxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ
 ==
