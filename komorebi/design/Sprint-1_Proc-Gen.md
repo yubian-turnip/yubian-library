@@ -56,9 +56,11 @@ It also has the added benefit of defining a path for streams and rivers to follo
 3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
 4. Find the total of the rays: $P= [\bar{p}_1,\bar{p}_2,\bar{p}_3...\bar{p}_n] , P_{total} =\sum_{i = 1}^{n}P_i$
 5. Start the process over again where $\bar{P}+C=C_{new}$ 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNzg4MTQ0LDEzMTkxNTA2MjYsMTk4Mj
-I2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUx
-MCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQxNDYxLDE2ND
-k0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ0NjgxNDgsMTMxOTE1MDYyNiwxOT
+gyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2
+NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMT
+Y0OTQ2MzM1NF19
 -->
