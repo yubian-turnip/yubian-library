@@ -48,10 +48,9 @@ You might be asking, "why not just that same noise map to generate a mesh direct
 
 It also has the added benefit of defining a path for streams and rivers to follow when we get to the micro and local sections.
 
----
-### Tracing a Noise Map
-
+## Day 2 (June 30 2026)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0Nj
-UxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbMTk2NDIzNDU4NywxNjk3ODM2NTEwLDE1Nj
+Y4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMTY0OTQ2MzM1
+NF19
 -->
