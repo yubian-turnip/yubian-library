@@ -56,6 +56,7 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> $x^2+y^2 \leq r^2$
 3. Add it to the queue if if it is true
 
+
 **Find the new point**:
 
 1. Group points into $n$ amount of groups from the radius of a center point ($C$)  
@@ -69,9 +70,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzM2MzM1OCwtMTUwNjc1NTQ2MCwxNT
-A4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1MDYyNiwxOTgyMjY5
-MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2NTEwLD
-E1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMTY0OTQ2
-MzM1NF19
+eyJoaXN0b3J5IjpbLTE0MjU5NDY0ODQsMTUwNzM2MzM1OCwtMT
+UwNjc1NTQ2MCwxNTA4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1
+MDYyNiwxOTgyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4Ny
+wxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4
+NDE0NjEsMTY0OTQ2MzM1NF19
 -->
