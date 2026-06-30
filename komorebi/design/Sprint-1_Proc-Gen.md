@@ -61,7 +61,7 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	>adding $0.5$ gets the center slice
 	>$i$ is the slice index
 	>$n$ is number of groups
-2. Find the vector: $$\hat{r}$$
+2. Find the vector: $\hat{r}_i = [\cos\theta_i, \sin\theta_i]$
 
 **Find the new point**:
 
@@ -76,9 +76,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDk5NTA0OSwxNTA3MzYzMzU4LC0xNT
-A2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcxMCwxMzE5MTUw
-NjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOTY0MjM0NTg3LD
-E2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMzg0
-MTQ2MSwxNjQ5NDYzMzU0XX0=
+eyJoaXN0b3J5IjpbLTIwNjcyMzc2NDEsMTUwNzM2MzM1OCwtMT
+UwNjc1NTQ2MCwxNTA4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1
+MDYyNiwxOTgyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4Ny
+wxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4
+NDE0NjEsMTY0OTQ2MzM1NF19
 -->
