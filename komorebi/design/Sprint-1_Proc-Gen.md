@@ -58,10 +58,10 @@ It also has the added benefit of defining a path for streams and rivers to follo
   
 **Get the rays**:
 1. Get the center slice for each angle: $\theta_i=(i+0.5)\times\frac{2\pi}{n}-\pi$
-	>* adding $0.5$ gets the center slice
-	>* $i$ is the slice index
+	>adding $0.5$ gets the center slice
+	>$i$ is the slice index
 	>$n$ is number of groups
-2. 
+2. Find 
 
 **Find the new point**:
 
@@ -76,9 +76,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA2MDI5ODcsMTUwNzM2MzM1OCwtMT
-UwNjc1NTQ2MCwxNTA4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1
-MDYyNiwxOTgyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4Ny
-wxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4
-NDE0NjEsMTY0OTQ2MzM1NF19
+eyJoaXN0b3J5IjpbNzczNTYyOTM4LDE1MDczNjMzNTgsLTE1MD
+Y3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMTkxNTA2
+MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMT
+Y5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQx
+NDYxLDE2NDk0NjMzNTRdfQ==
 -->
