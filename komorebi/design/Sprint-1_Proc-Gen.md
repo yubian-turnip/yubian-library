@@ -61,7 +61,7 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	>adding $0.5$ gets the center slice
 	>$i$ is the slice index
 	>$n$ is number of groups
-2. Find 
+2. Find the vector: $$\hat{r}$$
 
 **Find the new point**:
 
@@ -76,9 +76,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNTYyOTM4LDE1MDczNjMzNTgsLTE1MD
-Y3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMTkxNTA2
-MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMT
-Y5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQx
-NDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbLTU5NDk5NTA0OSwxNTA3MzYzMzU4LC0xNT
+A2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcxMCwxMzE5MTUw
+NjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOTY0MjM0NTg3LD
+E2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMzg0
+MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
