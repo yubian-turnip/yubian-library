@@ -60,10 +60,11 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 We also need a process for getting the actual points from the radius.
 
-1. 
+1. Find a square AABB around where the circle could be
+2. for each point find the distance from the circle and check if its in the circle using the circle function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMT
-kxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1
-ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNT
-IzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzEyOTY4NzUsMTUwODU2NzcwLC0xNj
+A1NzE0NzEwLDEzMTkxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2
+NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLD
+k0NjUxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
 -->
