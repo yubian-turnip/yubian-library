@@ -50,6 +50,14 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 ## Day 2 (June 30 2026)
 ### Tracing a Noise Map
+**Get the candidates**:
+1. Find a square AABB around where the circle could be
+2. For each point in that AABB find the distance from the circle and check if its in the circle using the circle function:  
+	> $x^2+y^2 \leq r^2$
+3. Add it to the queue if if it is true
+
+**Find the new point**:
+
 1. Group points into $n$ amount of groups from the radius of a center point ($C$)  
 2. Take the average of the points in those groups for each group: $p= [x_1,x_2,x_3...x_n] , \bar{p}=\frac{1}{g}\sum_{i = 1}^{g}p_i$
 	> $g$ = number of points in group 
@@ -58,16 +66,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
 5. Start the process over again where $P_{total}+C=C_{new}$ 
 
-We also need a process for getting the actual points from the radius.
 
-1. Find a square AABB around where the circle could be
-2. For each point in that AABB find the distance from the circle and check if its in the circle using the circle function:  
-	> $x^2+y^2 \leq r^2$
-3. Add it to the queue if if it is
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY3NTU0NjAsMTUwODU2NzcwLC0xNj
-A1NzE0NzEwLDEzMTkxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2
-NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLD
-k0NjUxMTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbMTUwNzM2MzM1OCwtMTUwNjc1NTQ2MCwxNT
+A4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1MDYyNiwxOTgyMjY5
+MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4NywxNjk3ODM2NTEwLD
+E1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4NDE0NjEsMTY0OTQ2
+MzM1NF19
 -->
