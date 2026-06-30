@@ -52,16 +52,16 @@ It also has the added benefit of defining a path for streams and rivers to follo
 ### Tracing a Noise Map
 1. Group points into $n$ amount of groups from the radius of a center point ($C$)  
 2. Take the average of the points in those groups for each group: $p= [x_1,x_2,x_3...x_n] , \bar{p}=\frac{1}{g}\sum_{i = 1}^{g}p_i$
-	* ( $g$ = number of points in group )
+	> $g$ = number of points in group 
 3. Multiply the averages of the groups by normalized rays pointing in the direction of the groups from the center point
 4. Find the total of the rays: $P= [\bar{p}_1,\bar{p}_2,\bar{p}_3...\bar{p}_n] , P_{total} =\sum_{i = 1}^{n}P_i$
-	>Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
+	> Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
 6. Start the process over again where $P_{total}+C=C_{new}$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MDAyMjU0LDEzMTkxNTA2MjYsMTk4Mj
-I2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMTY5NzgzNjUx
-MCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQxNDYxLDE2ND
-k0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbMTQ4MDAxMDM0NywxMzE5MTUwNjI2LDE5OD
+IyNjkxMjQsLTEyMjU4NjQyMywxOTY0MjM0NTg3LDE2OTc4MzY1
+MTAsMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMzg0MTQ2MSwxNj
+Q5NDYzMzU0XX0=
 -->
