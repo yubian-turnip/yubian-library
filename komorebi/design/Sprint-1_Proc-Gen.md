@@ -73,12 +73,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> Rather than taking the average here it is much better to just Sum them all up instead because dividing by 1/n makes the vector way to small. Adding vectors in a circle pretty much already averages them in a way so adding an extra step gets you the difference. 
 5. Start the process over again where $P_{total}+C=C_{new}$ 
 
-
+but... it turns out all that is useless. Its not really that easy to get information that simply. In fact my algorithm I made resembles derivatives and gradients.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI0MDc1LDE1MDczNjMzNTgsLTE1MD
-Y3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0NzEwLDEzMTkxNTA2
-MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLDE5NjQyMzQ1ODcsMT
-Y5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUxMTczNCwtNTIzODQx
-NDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbLTE4OTE0MDUwOTQsLTIwOTI0MDc1LDE1MD
+czNjMzNTgsLTE1MDY3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0
+NzEwLDEzMTkxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLD
+E5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUx
+MTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
 -->
