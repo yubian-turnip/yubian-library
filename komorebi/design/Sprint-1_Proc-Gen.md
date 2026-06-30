@@ -75,10 +75,12 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 but... it turns out all that is useless. Its not really that easy to get information that simply. In fact my algorithm I made resembles derivatives and gradients.
 
+Even still gradients won't work because they all point to the pea
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE0MDUwOTQsLTIwOTI0MDc1LDE1MD
-czNjMzNTgsLTE1MDY3NTU0NjAsMTUwODU2NzcwLC0xNjA1NzE0
-NzEwLDEzMTkxNTA2MjYsMTk4MjI2OTEyNCwtMTIyNTg2NDIzLD
-E5NjQyMzQ1ODcsMTY5NzgzNjUxMCwxNTY2ODk5MzQwLDk0NjUx
-MTczNCwtNTIzODQxNDYxLDE2NDk0NjMzNTRdfQ==
+eyJoaXN0b3J5IjpbNDc4ODExMTE2LC0yMDkyNDA3NSwxNTA3Mz
+YzMzU4LC0xNTA2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcx
+MCwxMzE5MTUwNjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOT
+Y0MjM0NTg3LDE2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3
+MzQsLTUyMzg0MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
