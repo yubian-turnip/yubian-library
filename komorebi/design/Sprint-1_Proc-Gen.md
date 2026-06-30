@@ -52,10 +52,7 @@ It also has the added benefit of defining a path for streams and rivers to follo
 ### Tracing a Noise Map
 
 
-----------
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NTExNzM0LC01MjM4NDE0NjEsMTY0OT
-Q2MzM1NF19
+eyJoaXN0b3J5IjpbMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMz
+g0MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
