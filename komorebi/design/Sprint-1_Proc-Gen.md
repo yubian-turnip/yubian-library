@@ -56,6 +56,8 @@ It also has the added benefit of defining a path for streams and rivers to follo
 	> $x^2+y^2 \leq r^2$
 3. Add it to the queue if if it is true
 
+**Get the rays**:
+1. Get the center slice for each angle: $\theta_i=($
 
 **Find the new point**:
 
@@ -70,9 +72,9 @@ It also has the added benefit of defining a path for streams and rivers to follo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU5NDY0ODQsMTUwNzM2MzM1OCwtMT
-UwNjc1NTQ2MCwxNTA4NTY3NzAsLTE2MDU3MTQ3MTAsMTMxOTE1
-MDYyNiwxOTgyMjY5MTI0LC0xMjI1ODY0MjMsMTk2NDIzNDU4Ny
-wxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0LC01MjM4
-NDE0NjEsMTY0OTQ2MzM1NF19
+eyJoaXN0b3J5IjpbLTc5NzY5NDc4NywxNTA3MzYzMzU4LC0xNT
+A2NzU1NDYwLDE1MDg1Njc3MCwtMTYwNTcxNDcxMCwxMzE5MTUw
+NjI2LDE5ODIyNjkxMjQsLTEyMjU4NjQyMywxOTY0MjM0NTg3LD
+E2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3MzQsLTUyMzg0
+MTQ2MSwxNjQ5NDYzMzU0XX0=
 -->
