@@ -51,9 +51,10 @@ It also has the added benefit of defining a path for streams and rivers to follo
 ## Day 2 (June 30 2026)
 ### Tracing a Noise Map
 1. Group points into x amount of points from the radius of a center point
-2. Take 
+2. Take the average of the points in those groups
+3. Multiply the averages of the groups by normalized rays pointing in the directions the direction 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIxODczOTksLTEyMjU4NjQyMywxOT
-Y0MjM0NTg3LDE2OTc4MzY1MTAsMTU2Njg5OTM0MCw5NDY1MTE3
-MzQsLTUyMzg0MTQ2MSwxNjQ5NDYzMzU0XX0=
+eyJoaXN0b3J5IjpbNjg2NTQ3OTg5LC0xMjI1ODY0MjMsMTk2ND
+IzNDU4NywxNjk3ODM2NTEwLDE1NjY4OTkzNDAsOTQ2NTExNzM0
+LC01MjM4NDE0NjEsMTY0OTQ2MzM1NF19
 -->
